@@ -1,0 +1,6 @@
+anthropic>=1.0
+streamlit>=1.40
+# pinned: Windows Smart App Control blocks pandas 3.1 binaries that lack established reputation
+pandas==2.2.3
+requests>=2.31
+beautifulsoup4>=4.12

@@ -1,0 +1,26 @@
+id,question,answerable,top_score,coverage,retrieval_hit,top1_hit,answered
+q01,What three types of safeguards does the HIPAA Security Rule require?,True,10.62,0.41,True,True,True
+q02,Which organizations count as covered entities under HIPAA?,True,7.62,0.33,True,True,True
+q03,"After discovering a breach, how long does a covered entity have to notify the affected individuals?",True,14.43,0.47,True,True,True
+q04,"If a breach affects more than 500 residents of a state, who else has to be notified besides the individuals?",True,23.26,0.47,True,True,True
+q05,When does a breach affecting fewer than 500 people need to be reported to HHS?,True,18.59,0.35,True,True,True
+q06,Is it still a breach if lost patient data was encrypted?,True,10.18,0.45,True,True,True
+q07,What does the HIPAA minimum necessary standard require?,True,8.04,0.51,True,True,True
+q08,Does the minimum necessary requirement apply when sharing information with a doctor for treatment?,True,18.4,1.0,True,True,True
+q09,How quickly must we respond to a patient's request to access their medical records?,True,8.86,0.49,True,True,True
+q10,Can we charge patients a fee for copies of their health records?,True,7.23,0.8,True,False,True
+q11,What are the two ways to de-identify protected health information?,True,8.5,0.4,True,True,True
+q12,Can a de-identified dataset include patients' ZIP codes?,True,11.59,0.44,True,True,True
+q13,What does a business associate contract have to require the vendor to do with patient data?,True,9.64,0.61,True,True,True
+q14,What is information blocking?,True,4.61,1.0,True,True,True
+q15,Who is subject to the information blocking regulations?,True,8.27,0.73,True,True,True
+q16,What is HL7 FHIR and what is it used for?,True,11.12,1.0,True,True,True
+q17,What are FHIR resources?,True,9.13,1.0,True,True,True
+q18,Does the HIPAA Security Rule require a risk analysis?,True,12.61,0.78,True,True,True
+q19,"Can a provider share patient information for treatment, payment, and health care operations without written authorization?",True,28.12,0.8,True,True,True
+q20,"Does HIPAA protect health information on paper or spoken out loud, or only electronic records?",True,11.19,0.4,True,True,True
+u01,How much does an Epic EHR license cost for a 300-bed hospital?,False,10.14,0.28,,,True
+u02,What is the recommended pediatric dose of amoxicillin for an ear infection?,False,0.0,0.0,,,False
+u03,What CPT code should we bill for an MRI of the knee?,False,4.17,0.12,,,False
+u04,What is our go-live date for the new scheduling module?,False,4.82,0.11,,,False
+u05,Which cloud provider has the cheapest GPU instances right now?,False,6.93,0.2,,,False

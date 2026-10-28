@@ -1,0 +1,148 @@
+{
+  "retrieved_at": "2026-10-28T19:40:37+00:00",
+  "ecfr_edition": "2026-10-26",
+  "sources": [
+    {
+      "id": "hipaa-definitions",
+      "title": "45 CFR 160.103 - HIPAA Definitions",
+      "type": "ecfr",
+      "part": "160",
+      "sections": [
+        "160.103"
+      ],
+      "topic": "Privacy",
+      "url": "https://www.ecfr.gov/current/title-45/section-160.103",
+      "chunks": 21,
+      "words": 3689
+    },
+    {
+      "id": "hipaa-uses-disclosures",
+      "title": "45 CFR 164.502, 164.506 - Uses and Disclosures of PHI",
+      "type": "ecfr",
+      "part": "164",
+      "sections": [
+        "164.502",
+        "164.506"
+      ],
+      "topic": "Privacy",
+      "url": "https://www.ecfr.gov/current/title-45/section-164.502",
+      "chunks": 20,
+      "words": 3592
+    },
+    {
+      "id": "hipaa-deidentification",
+      "title": "45 CFR 164.514 - De-identification and Minimum Necessary",
+      "type": "ecfr",
+      "part": "164",
+      "sections": [
+        "164.514"
+      ],
+      "topic": "De-identification",
+      "url": "https://www.ecfr.gov/current/title-45/section-164.514",
+      "chunks": 16,
+      "words": 2780
+    },
+    {
+      "id": "hipaa-right-of-access",
+      "title": "45 CFR 164.524 - Individuals' Access to PHI",
+      "type": "ecfr",
+      "part": "164",
+      "sections": [
+        "164.524"
+      ],
+      "topic": "Patient Access",
+      "url": "https://www.ecfr.gov/current/title-45/section-164.524",
+      "chunks": 11,
+      "words": 1990
+    },
+    {
+      "id": "hipaa-business-associates",
+      "title": "45 CFR 164.504, 164.314 - Business Associate Contracts",
+      "type": "ecfr",
+      "part": "164",
+      "sections": [
+        "164.504",
+        "164.314"
+      ],
+      "topic": "Business Associates",
+      "url": "https://www.ecfr.gov/current/title-45/section-164.504",
+      "chunks": 17,
+      "words": 2881
+    },
+    {
+      "id": "hipaa-security-rule",
+      "title": "45 CFR 164.306-164.312 - HIPAA Security Rule Safeguards",
+      "type": "ecfr",
+      "part": "164",
+      "sections": [
+        "164.306",
+        "164.308",
+        "164.310",
+        "164.312"
+      ],
+      "topic": "Security",
+      "url": "https://www.ecfr.gov/current/title-45/section-164.306",
+      "chunks": 13,
+      "words": 2157
+    },
+    {
+      "id": "hipaa-breach-notification",
+      "title": "45 CFR 164.402-164.408 - Breach Notification",
+      "type": "ecfr",
+      "part": "164",
+      "sections": [
+        "164.402",
+        "164.404",
+        "164.406",
+        "164.408"
+      ],
+      "topic": "Breach",
+      "url": "https://www.ecfr.gov/current/title-45/section-164.402",
+      "chunks": 10,
+      "words": 1498
+    },
+    {
+      "id": "info-blocking-rule",
+      "title": "45 CFR 171.101-171.103 - Information Blocking",
+      "type": "ecfr",
+      "part": "171",
+      "sections": [
+        "171.101",
+        "171.102",
+        "171.103"
+      ],
+      "topic": "Information Blocking",
+      "url": "https://www.ecfr.gov/current/title-45/section-171.101",
+      "chunks": 11,
+      "words": 1808
+    },
+    {
+      "id": "onc-information-blocking",
+      "title": "ASTP/ONC - Information Blocking",
+      "type": "html",
+      "url": "https://www.healthit.gov/topic/information-blocking",
+      "topic": "Information Blocking",
+      "chunks": 9,
+      "words": 930
+    },
+    {
+      "id": "hl7-fhir-overview",
+      "title": "HL7 FHIR - Overview",
+      "type": "html",
+      "url": "https://hl7.org/fhir/overview.html",
+      "topic": "Interoperability",
+      "chunks": 13,
+      "words": 1483
+    },
+    {
+      "id": "hl7-fhir-summary",
+      "title": "HL7 FHIR - Executive Summary",
+      "type": "html",
+      "url": "https://hl7.org/fhir/summary.html",
+      "topic": "Interoperability",
+      "chunks": 6,
+      "words": 631
+    }
+  ],
+  "failures": []
+}
